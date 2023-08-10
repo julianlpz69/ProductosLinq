@@ -1,0 +1,17 @@
+/home/arteN01-050/Desktop/JJLA/ProductosLinq/tiendaProducots/bin/Debug/net7.0/tiendaProducots
+/home/arteN01-050/Desktop/JJLA/ProductosLinq/tiendaProducots/bin/Debug/net7.0/tiendaProducots.deps.json
+/home/arteN01-050/Desktop/JJLA/ProductosLinq/tiendaProducots/bin/Debug/net7.0/tiendaProducots.runtimeconfig.json
+/home/arteN01-050/Desktop/JJLA/ProductosLinq/tiendaProducots/bin/Debug/net7.0/tiendaProducots.dll
+/home/arteN01-050/Desktop/JJLA/ProductosLinq/tiendaProducots/bin/Debug/net7.0/tiendaProducots.pdb
+/home/arteN01-050/Desktop/JJLA/ProductosLinq/tiendaProducots/obj/Debug/net7.0/tiendaProducots.csproj.AssemblyReference.cache
+/home/arteN01-050/Desktop/JJLA/ProductosLinq/tiendaProducots/obj/Debug/net7.0/tiendaProducots.GeneratedMSBuildEditorConfig.editorconfig
+/home/arteN01-050/Desktop/JJLA/ProductosLinq/tiendaProducots/obj/Debug/net7.0/tiendaProducots.AssemblyInfoInputs.cache
+/home/arteN01-050/Desktop/JJLA/ProductosLinq/tiendaProducots/obj/Debug/net7.0/tiendaProducots.AssemblyInfo.cs
+/home/arteN01-050/Desktop/JJLA/ProductosLinq/tiendaProducots/obj/Debug/net7.0/tiendaProducots.csproj.CoreCompileInputs.cache
+/home/arteN01-050/Desktop/JJLA/ProductosLinq/tiendaProducots/obj/Debug/net7.0/tiendaProducots.dll
+/home/arteN01-050/Desktop/JJLA/ProductosLinq/tiendaProducots/obj/Debug/net7.0/refint/tiendaProducots.dll
+/home/arteN01-050/Desktop/JJLA/ProductosLinq/tiendaProducots/obj/Debug/net7.0/tiendaProducots.pdb
+/home/arteN01-050/Desktop/JJLA/ProductosLinq/tiendaProducots/obj/Debug/net7.0/tiendaProducots.genruntimeconfig.cache
+/home/arteN01-050/Desktop/JJLA/ProductosLinq/tiendaProducots/obj/Debug/net7.0/ref/tiendaProducots.dll
+/home/arteN01-050/Desktop/JJLA/ProductosLinq/tiendaProducots/bin/Debug/net7.0/Newtonsoft.Json.dll
+/home/arteN01-050/Desktop/JJLA/ProductosLinq/tiendaProducots/obj/Debug/net7.0/tiendaProducots.csproj.CopyComplete

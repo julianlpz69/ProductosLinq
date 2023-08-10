@@ -1,0 +1,12 @@
+{
+  "1": {
+    "IdProducto": 1,
+    "Nombre": "Lavador",
+    "Stock": 10,
+    "StockMin": 5,
+    "StockMax": 20,
+    "PrecioVenta": 30000.0,
+    "PrecioCompra": 20000.0,
+    "IdCategoria": 2
+  }
+}
